@@ -1,3 +1,4 @@
 settings.py
 secrets.py
+*.sqlite3
 
